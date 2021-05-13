@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" />
+    <string name="team_a_name">team_a_name</string>
+    <string name="team_b_name">team_b_name</string>
+
+
+</resources>
